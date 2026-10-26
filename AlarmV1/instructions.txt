@@ -1,0 +1,3 @@
+cd C:\"directory of folder"
+.\.venv\Scripts\Activate.ps1
+.\main.py
